@@ -4,6 +4,7 @@ import { json } from 'body-parser';
 // @ts-ignore
 import xss from 'xss-clean';
 import hpp from 'hpp';
+import cors from 'cors';
 import mongoSanitize from 'express-mongo-sanitize';
 import { errorHandler } from './middleware/error-handler';
 import { RouteNotFoundError } from './errors/route-not-found-error';
@@ -14,6 +15,7 @@ import { uploadRouter } from './routes/upload-routes';
 const app = express();
 
 // Middleware
+app.use(cors());
 app.use(json());
 
 // Security Middleware
