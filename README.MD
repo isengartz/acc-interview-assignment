@@ -7,4 +7,4 @@
 - `cd backend/ && npm install && cp .env.example .env && npm start`
 - `cd frontend/ && npm install && cp .env.example .env && npm start`
 
-** :boom: SOS: :boom: I will provide all the .env variables for the project in the email **
+**:boom: SOS: :boom: I will provide all the .env variables for the project in the email**
