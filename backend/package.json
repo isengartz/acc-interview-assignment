@@ -16,6 +16,7 @@
     "@types/hpp": "^0.2.1",
     "@types/node": "^15.0.3",
     "@types/uuid": "^8.3.0",
+    "aws-sdk": "^2.906.0",
     "body-parser": "^1.19.0",
     "dotenv": "^9.0.2",
     "express": "^4.17.1",
