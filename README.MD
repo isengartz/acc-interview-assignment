@@ -6,7 +6,7 @@ Create a frontend / backend application that will simulate a Media Player
 - User should be able to view all his uploaded files as a list
 - User should be able to select one file and playback it in realtime
 
-** Have to deliver as much as I can in an 8 hour deadline**
+**Have to deliver as much as I can in an 8 hour deadline**
 
 ## Deploy
 
